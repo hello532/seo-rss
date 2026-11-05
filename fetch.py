@@ -43,29 +43,31 @@ def clean(s: str) -> str:
     return html.unescape(s).strip()
 
 
-def parse_items(page: str, prefix: str) -> list[dict]:
-    """Parse one listing page. prefix: /tutorial/detail | /topic."""
+def parse_items(page: str, prefix: str, exclude: str = "") -> list[dict]:
+    """Parse one listing page. prefix: /tutorial/detail | /topic | /tutorial."""
+    ex = f"(?!{re.escape(exclude)}/)" if exclude else ""
     pat = re.compile(
-        rf'<a href="({re.escape(prefix)}/[a-z0-9]+)"[^>]*>(.*?)</a>', re.S
+        rf'<a href="({re.escape(prefix)}/{ex}[a-z0-9]{{6,}})"[^>]*>(.*?)</a>', re.S
     )
     items = []
     for m in pat.finditer(page):
         path, inner = m.group(1), m.group(2)
         title = clean(inner)
+        title = re.sub(r"^#\s*", "", title)
+        title = re.sub(r"\s*\d+\s*篇$", "", title)
         if len(title) < 4:
             continue
-        head = page[max(0, m.start() - 900): m.start()]
-        authors = re.findall(r'aria-label="([^"]+)"', head)
-        author = authors[-1] if authors else ""
-        tail = page[m.end(): m.end() + 900]
-        date = ""
-        dm = re.search(r"(\d{4}-\d{2}-\d{2}[ T]\d{2}:\d{2})", tail)
-        if dm:
-            date = dm.group(1)
+        tail = page[m.end(): m.end() + 1400]
+        am = re.search(rf'<a href="{re.escape(prefix).rsplit("/",1)[0]}/u/[a-z0-9]+"[^>]*>([^<]+)</a>', tail)
+        if not am:
+            am = re.search(r'<a href="/u/[a-z0-9]+"[^>]*>([^<]+)</a>', tail)
+        author = html.unescape(am.group(1)).strip() if am else ""
+        tm = re.search(r'<time[^>]*dateTime="([^"]+)"', tail)
+        if tm:
+            date = tm.group(1)
         else:
-            rm = re.search(r"(\d+)\s*(分钟|小时|天|周)前", tail)
-            if rm:
-                date = rm.group(0)
+            dm = re.search(r"(\d{4}-\d{2}-\d{2}[ T]\d{2}:\d{2})", tail)
+            date = dm.group(1) if dm else ""
         items.append(
             {
                 "id": path,
@@ -86,11 +88,11 @@ def parse_items(page: str, prefix: str) -> list[dict]:
 
 
 def to_date(raw: str) -> datetime:
-    for fmt in ("%Y-%m-%d %H:%M", "%Y-%m-%dT%H:%M"):
+    for fmt in ("%Y-%m-%dT%H:%M:%S.%fZ", "%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H:%M", "%Y-%m-%d %H:%M"):
         try:
             return datetime.strptime(raw, fmt).replace(tzinfo=timezone.utc)
         except ValueError:
-            break
+            pass
     return datetime.now(timezone.utc)
 
 
@@ -140,12 +142,13 @@ def main() -> int:
     jobs = [
         ("webcafe-all", "/all", "/tutorial/detail", "Web.Cafe 最新教程", "哥飞社群最新教程（教程流）"),
         ("webcafe-topics", "/topics", "/topic", "Web.Cafe 社群帖子", "哥飞朋友们社群最新讨论与复盘"),
+        ("webcafe-columns", "/tutorials", "/tutorial", "Web.Cafe 教程专栏", "哥飞社群教程专栏最新文章"),
     ]
     ok = 0
     for slug, path, kind, title, desc in jobs:
         try:
             page = get(BASE + path)
-            fresh = parse_items(page, kind)
+            fresh = parse_items(page, kind, exclude="detail" if kind == "/tutorial" else "")
             kept = state.get(slug, [])
             by_id = {i["id"]: i for i in kept}
             added = 0

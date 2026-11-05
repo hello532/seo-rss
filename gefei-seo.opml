@@ -9,6 +9,7 @@
     <outline text="哥飞 &amp; 社群（自建 feed）" title="哥飞 &amp; 社群（自建 feed）">
       <outline type="rss" text="Web.Cafe 最新教程" title="Web.Cafe 最新教程" xmlUrl="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" htmlUrl="https://new.web.cafe/all"/>
       <outline type="rss" text="Web.Cafe 社群帖子" title="Web.Cafe 社群帖子" xmlUrl="https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml" htmlUrl="https://new.web.cafe/topics"/>
+      <outline type="rss" text="Web.Cafe 教程专栏" title="Web.Cafe 教程专栏" xmlUrl="https://hello532.github.io/seo-rss/feeds/webcafe-columns.xml" htmlUrl="https://new.web.cafe/tutorials"/>
     </outline>
     <outline text="中文 SEO / 出海" title="中文 SEO / 出海">
       <outline type="rss" text="Justin Yan（出海独立开发）" title="Justin Yan（出海独立开发）" xmlUrl="https://justinyan.me/rss" htmlUrl="https://justinyan.me"/>
