@@ -155,7 +155,7 @@ def main() -> int:
                 by_id[it["id"]] = it
             merged = list(by_id.values())[:MAX_ITEMS]
             state[slug] = merged
-            xml = build_rss(slug, title, f"https://rss.rerivo.com/{slug}.xml", desc, merged)
+            xml = build_rss(slug, title, f"https://hello532.github.io/seo-rss/feeds/{slug}.xml", desc, merged)
             (FEEDS / f"{slug}.xml").write_text(xml, encoding="utf-8")
             print(f"{slug}: {len(fresh)} on page, +{added} new, {len(merged)} total")
             ok += 1

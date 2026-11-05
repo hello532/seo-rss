@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>哥飞 SEO 中文订阅</title>
+    <dateCreated>Thu, 05 Nov 2026 20:30:00 +0800</dateCreated>
+    <ownerName>doi</ownerName>
+  </head>
+  <body>
+    <outline text="哥飞 &amp; 社群（自建 feed）" title="哥飞 &amp; 社群（自建 feed）">
+      <outline type="rss" text="Web.Cafe 最新教程" title="Web.Cafe 最新教程" xmlUrl="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" htmlUrl="https://new.web.cafe/all"/>
+      <outline type="rss" text="Web.Cafe 社群帖子" title="Web.Cafe 社群帖子" xmlUrl="https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml" htmlUrl="https://new.web.cafe/topics"/>
+    </outline>
+    <outline text="中文 SEO / 出海" title="中文 SEO / 出海">
+      <outline type="rss" text="Justin Yan（出海独立开发）" title="Justin Yan（出海独立开发）" xmlUrl="https://justinyan.me/rss" htmlUrl="https://justinyan.me"/>
+      <outline type="rss" text="人人都是产品经理" title="人人都是产品经理" xmlUrl="https://www.woshipm.com/feed" htmlUrl="https://www.woshipm.com"/>
+      <outline type="rss" text="阮一峰的网络日志" title="阮一峰的网络日志" xmlUrl="https://www.ruanyifeng.com/blog/atom.xml" htmlUrl="https://www.ruanyifeng.com/blog/"/>
+      <outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com"/>
+    </outline>
+    <outline text="SEO 权威（英文）" title="SEO 权威（英文）">
+      <outline type="rss" text="Google Search Central" title="Google Search Central" xmlUrl="https://developers.google.com/search/blog/feed.xml" htmlUrl="https://developers.google.com/search/blog"/>
+      <outline type="rss" text="Ahrefs Blog" title="Ahrefs Blog" xmlUrl="https://ahrefs.com/blog/feed/" htmlUrl="https://ahrefs.com/blog"/>
+      <outline type="rss" text="Search Engine Journal" title="Search Engine Journal" xmlUrl="https://www.searchenginejournal.com/feed/" htmlUrl="https://www.searchenginejournal.com"/>
+      <outline type="rss" text="Search Engine Roundtable" title="Search Engine Roundtable" xmlUrl="https://www.seroundtable.com/index.rss" htmlUrl="https://www.seroundtable.com"/>
+      <outline type="rss" text="Moz Blog" title="Moz Blog" xmlUrl="https://moz.com/blog/feed" htmlUrl="https://moz.com/blog"/>
+      <outline type="rss" text="Backlinko" title="Backlinko" xmlUrl="https://backlinko.com/feed" htmlUrl="https://backlinko.com"/>
+      <outline type="rss" text="Yoast SEO" title="Yoast SEO" xmlUrl="https://yoast.com/feed/" htmlUrl="https://yoast.com"/>
+    </outline>
+  </body>
+</opml>
