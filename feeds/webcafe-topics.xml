@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml</link>
 <description>哥飞朋友们社群最新讨论与复盘</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 06 Nov 2026 01:19:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 02:19:53 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>订阅站终于突破首单了，很开心</title>
@@ -166,6 +166,14 @@
 <pubDate>Sun, 01 Nov 2026 10:46:08 +0000</pubDate>
 <description>Allomy°：武汉线下交流活动有感</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Allomy°</dc:creator>
+</item>
+<item>
+<title>第一次做网站所犯的“蠢事”</title>
+<link>https://new.web.cafe/topic/gratpt74ne</link>
+<guid isPermaLink="true">https://new.web.cafe/topic/gratpt74ne</guid>
+<pubDate>Fri, 06 Nov 2026 01:59:58 +0000</pubDate>
+<description>阿无：第一次做网站所犯的“蠢事”</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">阿无</dc:creator>
 </item>
 </channel>
 </rss>
