@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml</link>
 <description>哥飞朋友们社群最新讨论与复盘</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 07 Nov 2026 10:55:49 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 11:55:54 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>订阅站终于突破首单了，很开心</title>
@@ -454,6 +454,38 @@
 <pubDate>Sat, 07 Nov 2026 06:55:27 +0000</pubDate>
 <description>汪洋：11月7日上海线下</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">汪洋</dc:creator>
+</item>
+<item>
+<title>2026.11.7 参加哥飞群线下活动感受</title>
+<link>https://new.web.cafe/topic/ak868kiw7q</link>
+<guid isPermaLink="true">https://new.web.cafe/topic/ak868kiw7q</guid>
+<pubDate>Sat, 07 Nov 2026 11:28:56 +0000</pubDate>
+<description>达人：2026.11.7 参加哥飞群线下活动感受</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">达人</dc:creator>
+</item>
+<item>
+<title>11月7日上海线下</title>
+<link>https://new.web.cafe/topic/a6r9hcwnud</link>
+<guid isPermaLink="true">https://new.web.cafe/topic/a6r9hcwnud</guid>
+<pubDate>Sat, 07 Nov 2026 11:10:11 +0000</pubDate>
+<description>夏明：11月7日上海线下</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">夏明</dc:creator>
+</item>
+<item>
+<title>上海线下活动小节</title>
+<link>https://new.web.cafe/topic/t7mcjgc205</link>
+<guid isPermaLink="true">https://new.web.cafe/topic/t7mcjgc205</guid>
+<pubDate>Sat, 07 Nov 2026 11:03:53 +0000</pubDate>
+<description>雪山：上海线下活动小节</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">雪山</dc:creator>
+</item>
+<item>
+<title>上海1107线下活动</title>
+<link>https://new.web.cafe/topic/v0fh3fbvp6</link>
+<guid isPermaLink="true">https://new.web.cafe/topic/v0fh3fbvp6</guid>
+<pubDate>Sat, 07 Nov 2026 10:56:25 +0000</pubDate>
+<description>Ablaze：上海1107线下活动</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ablaze</dc:creator>
 </item>
 </channel>
 </rss>
