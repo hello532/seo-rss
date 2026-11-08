@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml</link>
 <description>哥飞朋友们社群最新讨论与复盘</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 08 Nov 2026 12:58:01 +0000</lastBuildDate>
+<lastBuildDate>Sun, 08 Nov 2026 13:58:06 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>订阅站终于突破首单了，很开心</title>
@@ -710,6 +710,14 @@
 <pubDate>Sun, 08 Nov 2026 11:17:03 +0000</pubDate>
 <description>小李哥：1107日上海活动复盘</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">小李哥</dc:creator>
+</item>
+<item>
+<title>耐心打磨 多出来交流 谢谢Frank</title>
+<link>https://new.web.cafe/topic/j3au3q1dnt</link>
+<guid isPermaLink="true">https://new.web.cafe/topic/j3au3q1dnt</guid>
+<pubDate>Sun, 08 Nov 2026 12:57:48 +0000</pubDate>
+<description>阿宽：耐心打磨 多出来交流 谢谢Frank</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">阿宽</dc:creator>
 </item>
 </channel>
 </rss>
