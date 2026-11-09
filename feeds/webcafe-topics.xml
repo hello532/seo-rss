@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml</link>
 <description>哥飞朋友们社群最新讨论与复盘</description>
 <language>zh-CN</language>
-<lastBuildDate>Mon, 09 Nov 2026 13:00:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 14:00:14 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>订阅站终于突破首单了，很开心</title>
@@ -798,6 +798,22 @@
 <pubDate>Mon, 09 Nov 2026 10:03:02 +0000</pubDate>
 <description>root_three：上海线下交流总结</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">root_three</dc:creator>
+</item>
+<item>
+<title>11-07 上海线下活动</title>
+<link>https://new.web.cafe/topic/w6b4kfzha4</link>
+<guid isPermaLink="true">https://new.web.cafe/topic/w6b4kfzha4</guid>
+<pubDate>Mon, 09 Nov 2026 13:29:26 +0000</pubDate>
+<description>老荀：11-07 上海线下活动</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">老荀</dc:creator>
+</item>
+<item>
+<title>绝知此事要线下-2026.11.07上海活动心得</title>
+<link>https://new.web.cafe/topic/b9mipg3683</link>
+<guid isPermaLink="true">https://new.web.cafe/topic/b9mipg3683</guid>
+<pubDate>Mon, 09 Nov 2026 13:04:23 +0000</pubDate>
+<description>困困困：绝知此事要线下-2026.11.07上海活动心得</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">困困困</dc:creator>
 </item>
 </channel>
 </rss>
