@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml</link>
 <description>哥飞朋友们社群最新讨论与复盘</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 10 Nov 2026 13:02:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 14:02:45 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>订阅站终于突破首单了，很开心</title>
@@ -862,6 +862,14 @@
 <pubDate>Tue, 10 Nov 2026 10:03:58 +0000</pubDate>
 <description>王雪琪：100美元收入挑战-0%</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">王雪琪</dc:creator>
+</item>
+<item>
+<title>Day one in gefei</title>
+<link>https://new.web.cafe/topic/wxkvpokylu</link>
+<guid isPermaLink="true">https://new.web.cafe/topic/wxkvpokylu</guid>
+<pubDate>Tue, 10 Nov 2026 13:12:48 +0000</pubDate>
+<description>疯狗Shingo：Day one in gefei</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">疯狗Shingo</dc:creator>
 </item>
 </channel>
 </rss>
