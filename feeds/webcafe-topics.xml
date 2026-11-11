@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml</link>
 <description>哥飞朋友们社群最新讨论与复盘</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 11 Nov 2026 14:05:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 15:05:10 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-topics.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>订阅站终于突破首单了，很开心</title>
@@ -918,6 +918,14 @@
 <pubDate>Wed, 11 Nov 2026 11:57:57 +0000</pubDate>
 <description>哥飞：哥飞强推的 AI 辅助精细化运营实操教程</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
+</item>
+<item>
+<title>拆了两个AI 说唱视频站：rapduo 和 rapvideo 的转化流程对比</title>
+<link>https://new.web.cafe/topic/cxljrarii2</link>
+<guid isPermaLink="true">https://new.web.cafe/topic/cxljrarii2</guid>
+<pubDate>Wed, 11 Nov 2026 14:54:40 +0000</pubDate>
+<description>半缘君：拆了两个AI 说唱视频站：rapduo 和 rapvideo 的转化流程对比</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">半缘君</dc:creator>
 </item>
 </channel>
 </rss>
