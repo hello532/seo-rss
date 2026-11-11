@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-all.xml</link>
 <description>哥飞社群最新教程（教程流）</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 11 Nov 2026 07:04:23 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 08:04:29 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>上站第二十四天，聚焦 与 陷阱</title>
@@ -190,6 +190,14 @@
 <pubDate>Tue, 10 Nov 2026 08:25:57 +0000</pubDate>
 <description>哥飞：Paddle 封号后追回账户余额：让 Grok Bot 整理邮件、去信沟通，再提交水星银行流水</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
+</item>
+<item>
+<title>上站第三十天，21天计划，从抢救token开始</title>
+<link>https://new.web.cafe/tutorial/detail/1bvakewreb</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/1bvakewreb</guid>
+<pubDate>Wed, 11 Nov 2026 07:39:46 +0000</pubDate>
+<description>程序员卡诺：上站第三十天，21天计划，从抢救token开始</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">程序员卡诺</dc:creator>
 </item>
 </channel>
 </rss>
