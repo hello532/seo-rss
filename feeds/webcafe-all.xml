@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-all.xml</link>
 <description>哥飞社群最新教程（教程流）</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 11 Nov 2026 02:03:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 03:04:01 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>上站第二十四天，聚焦 与 陷阱</title>
@@ -173,6 +173,22 @@
 <guid isPermaLink="true">https://new.web.cafe/tutorial/detail/jnvd5p9jdg</guid>
 <pubDate>Mon, 09 Nov 2026 02:18:52 +0000</pubDate>
 <description>哥飞：网站价格实验：按平均每个访客带来的价值选价格，先粗测再细测</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
+</item>
+<item>
+<title>2026-11-10 Sora 2 需求词重生，游戏站成新手村主线</title>
+<link>https://new.web.cafe/tutorial/detail/if6qswef6u</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/if6qswef6u</guid>
+<pubDate>Wed, 11 Nov 2026 02:54:10 +0000</pubDate>
+<description>哥飞.ai：2026-11-10 Sora 2 需求词重生，游戏站成新手村主线</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞.ai</dc:creator>
+</item>
+<item>
+<title>Paddle 封号后追回账户余额：让 Grok Bot 整理邮件、去信沟通，再提交水星银行流水</title>
+<link>https://new.web.cafe/tutorial/detail/kwfz8pyhwg</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/kwfz8pyhwg</guid>
+<pubDate>Tue, 10 Nov 2026 08:25:57 +0000</pubDate>
+<description>哥飞：Paddle 封号后追回账户余额：让 Grok Bot 整理邮件、去信沟通，再提交水星银行流水</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
 </item>
 </channel>
