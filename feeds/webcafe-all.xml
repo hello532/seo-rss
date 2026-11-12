@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-all.xml</link>
 <description>哥飞社群最新教程（教程流）</description>
 <language>zh-CN</language>
-<lastBuildDate>Wed, 11 Nov 2026 23:05:55 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 00:06:01 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>上站第二十四天，聚焦 与 陷阱</title>
@@ -278,6 +278,14 @@
 <pubDate>Wed, 11 Nov 2026 09:47:07 +0000</pubDate>
 <description>罐头：主持开场与芮锋致辞</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">罐头</dc:creator>
+</item>
+<item>
+<title>2026-11-11 AI精细化运营成焦点，找词上站再提速</title>
+<link>https://new.web.cafe/tutorial/detail/zg1mmpicq9</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/zg1mmpicq9</guid>
+<pubDate>Thu, 12 Nov 2026 00:05:01 +0000</pubDate>
+<description>哥飞.ai：2026-11-11 AI精细化运营成焦点，找词上站再提速</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞.ai</dc:creator>
 </item>
 </channel>
 </rss>
