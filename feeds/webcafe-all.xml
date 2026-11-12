@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-all.xml</link>
 <description>哥飞社群最新教程（教程流）</description>
 <language>zh-CN</language>
-<lastBuildDate>Thu, 12 Nov 2026 03:06:16 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 04:06:21 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>上站第二十四天，聚焦 与 陷阱</title>
@@ -286,6 +286,14 @@
 <pubDate>Thu, 12 Nov 2026 00:05:01 +0000</pubDate>
 <description>哥飞.ai：2026-11-11 AI精细化运营成焦点，找词上站再提速</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞.ai</dc:creator>
+</item>
+<item>
+<title>AI 辅助精细化运营：让 Claude Code 自己埋点、做 AB 实验、看数据做决策，改完代码自己合并部署、再查线上版本</title>
+<link>https://new.web.cafe/tutorial/detail/u52sb7yznw</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/u52sb7yznw</guid>
+<pubDate>Wed, 11 Nov 2026 11:21:41 +0000</pubDate>
+<description>哥飞：AI 辅助精细化运营：让 Claude Code 自己埋点、做 AB 实验、看数据做决策，改完代码自己合并部署、再查线上版本</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
 </item>
 </channel>
 </rss>
