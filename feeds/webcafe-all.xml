@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-all.xml</link>
 <description>哥飞社群最新教程（教程流）</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 13 Nov 2026 02:09:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 03:09:40 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>上站第二十四天，聚焦 与 陷阱</title>
@@ -302,6 +302,22 @@
 <pubDate>Fri, 13 Nov 2026 00:05:00 +0000</pubDate>
 <description>哥飞.ai：2026-11-12 Claude 二次 KYC 封号潮与群友开单</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞.ai</dc:creator>
+</item>
+<item>
+<title>上站第三十二天，从产品角度理解落地页</title>
+<link>https://new.web.cafe/tutorial/detail/pgi1mvangi</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/pgi1mvangi</guid>
+<pubDate>Fri, 13 Nov 2026 02:43:16 +0000</pubDate>
+<description>程序员卡诺：上站第三十二天，从产品角度理解落地页</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">程序员卡诺</dc:creator>
+</item>
+<item>
+<title>上站第三十一天，爱纠结的人快去定小目标</title>
+<link>https://new.web.cafe/tutorial/detail/xcgawv1295</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/xcgawv1295</guid>
+<pubDate>Fri, 13 Nov 2026 02:41:45 +0000</pubDate>
+<description>程序员卡诺：上站第三十一天，爱纠结的人快去定小目标</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">程序员卡诺</dc:creator>
 </item>
 </channel>
 </rss>
