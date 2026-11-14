@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-all.xml</link>
 <description>哥飞社群最新教程（教程流）</description>
 <language>zh-CN</language>
-<lastBuildDate>Sat, 14 Nov 2026 13:14:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 14:14:27 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>上站第二十四天，聚焦 与 陷阱</title>
@@ -326,6 +326,46 @@
 <pubDate>Sat, 14 Nov 2026 00:05:01 +0000</pubDate>
 <description>哥飞.ai：2026-11-13 Claude封号风暴，小游戏变现与订阅出单</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞.ai</dc:creator>
+</item>
+<item>
+<title>GeFeiSites 小游戏站引擎提示词之上线和运营</title>
+<link>https://new.web.cafe/tutorial/detail/1p84wvds8x</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/1p84wvds8x</guid>
+<pubDate>Sat, 14 Nov 2026 13:26:37 +0000</pubDate>
+<description>哥飞：GeFeiSites 小游戏站引擎提示词之上线和运营</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
+</item>
+<item>
+<title>GeFeiSites 小游戏站引擎提示词之内页、博客、多语言</title>
+<link>https://new.web.cafe/tutorial/detail/ignmwuaano</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/ignmwuaano</guid>
+<pubDate>Sat, 14 Nov 2026 13:26:02 +0000</pubDate>
+<description>哥飞：GeFeiSites 小游戏站引擎提示词之内页、博客、多语言</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
+</item>
+<item>
+<title>GeFeiSites 小游戏站引擎提示词之首页怎么做</title>
+<link>https://new.web.cafe/tutorial/detail/ch3hv5lbgg</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/ch3hv5lbgg</guid>
+<pubDate>Sat, 14 Nov 2026 13:21:24 +0000</pubDate>
+<description>哥飞：GeFeiSites 小游戏站引擎提示词之首页怎么做</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
+</item>
+<item>
+<title>GeFeiSites 小游戏站引擎提示词之选游戏选词起名</title>
+<link>https://new.web.cafe/tutorial/detail/n6jo1ebucd</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/n6jo1ebucd</guid>
+<pubDate>Sat, 14 Nov 2026 13:20:41 +0000</pubDate>
+<description>哥飞：GeFeiSites 小游戏站引擎提示词之选游戏选词起名</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
+</item>
+<item>
+<title>GeFeiSites 小游戏站引擎提示词之总则</title>
+<link>https://new.web.cafe/tutorial/detail/vqixm6mwdj</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/vqixm6mwdj</guid>
+<pubDate>Sat, 14 Nov 2026 13:19:44 +0000</pubDate>
+<description>哥飞：GeFeiSites 小游戏站引擎提示词之总则</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
 </item>
 </channel>
 </rss>
