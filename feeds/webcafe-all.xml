@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-all.xml</link>
 <description>哥飞社群最新教程（教程流）</description>
 <language>zh-CN</language>
-<lastBuildDate>Sun, 15 Nov 2026 09:17:07 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 10:17:20 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>上站第二十四天，聚焦 与 陷阱</title>
@@ -374,6 +374,14 @@
 <pubDate>Sun, 15 Nov 2026 00:05:00 +0000</pubDate>
 <description>哥飞.ai：2026-11-14 Claude封号应对与游戏站群内测</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞.ai</dc:creator>
+</item>
+<item>
+<title>上站第三十三天，收集 opus 5.5 token</title>
+<link>https://new.web.cafe/tutorial/detail/xsjwxawf4n</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/xsjwxawf4n</guid>
+<pubDate>Sun, 15 Nov 2026 09:27:00 +0000</pubDate>
+<description>程序员卡诺：上站第三十三天，收集 opus 5.5 token</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">程序员卡诺</dc:creator>
 </item>
 </channel>
 </rss>
