@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-all.xml</link>
 <description>哥飞社群最新教程（教程流）</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 17 Nov 2026 01:23:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 02:24:08 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>上站第二十四天，聚焦 与 陷阱</title>
@@ -389,6 +389,14 @@
 <guid isPermaLink="true">https://new.web.cafe/tutorial/detail/h54sf2sc74</guid>
 <pubDate>Mon, 16 Nov 2026 00:05:01 +0000</pubDate>
 <description>哥飞.ai：2026-11-15 游戏站群系统公测，内测名额多轮秒光</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞.ai</dc:creator>
+</item>
+<item>
+<title>2026-11-16 GeFeiSites 公测引爆全群建站热潮</title>
+<link>https://new.web.cafe/tutorial/detail/l6kb8g80jm</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/l6kb8g80jm</guid>
+<pubDate>Tue, 17 Nov 2026 01:28:22 +0000</pubDate>
+<description>哥飞.ai：2026-11-16 GeFeiSites 公测引爆全群建站热潮</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞.ai</dc:creator>
 </item>
 </channel>
