@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-all.xml</link>
 <description>哥飞社群最新教程（教程流）</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 20 Nov 2026 12:07:11 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 13:07:18 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>上站第二十四天，聚焦 与 陷阱</title>
@@ -446,6 +446,38 @@
 <pubDate>Thu, 19 Nov 2026 02:01:12 +0000</pubDate>
 <description>哥飞：GSC 首页曝光出现没覆盖的词：立刻专门上内页拿流量</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
+</item>
+<item>
+<title>上站第三十九天，接受现状，不要焦虑，以及 AI 工作框架</title>
+<link>https://new.web.cafe/tutorial/detail/5iwzga2c9r</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/5iwzga2c9r</guid>
+<pubDate>Fri, 20 Nov 2026 12:08:14 +0000</pubDate>
+<description>程序员卡诺：上站第三十九天，接受现状，不要焦虑，以及 AI 工作框架</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">程序员卡诺</dc:creator>
+</item>
+<item>
+<title>上站第三十六天，努力推进</title>
+<link>https://new.web.cafe/tutorial/detail/dmnk0008in</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/dmnk0008in</guid>
+<pubDate>Fri, 20 Nov 2026 12:08:07 +0000</pubDate>
+<description>程序员卡诺：上站第三十六天，努力推进</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">程序员卡诺</dc:creator>
+</item>
+<item>
+<title>上站第三十五天，休息一天</title>
+<link>https://new.web.cafe/tutorial/detail/jmsipy8het</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/jmsipy8het</guid>
+<pubDate>Fri, 20 Nov 2026 12:08:04 +0000</pubDate>
+<description>程序员卡诺：上站第三十五天，休息一天</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">程序员卡诺</dc:creator>
+</item>
+<item>
+<title>上站第三十四天，神器 magpie</title>
+<link>https://new.web.cafe/tutorial/detail/g5z4r309d0</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/g5z4r309d0</guid>
+<pubDate>Fri, 20 Nov 2026 12:07:56 +0000</pubDate>
+<description>程序员卡诺：上站第三十四天，神器 magpie</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">程序员卡诺</dc:creator>
 </item>
 </channel>
 </rss>
