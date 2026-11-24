@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-all.xml</link>
 <description>哥飞社群最新教程（教程流）</description>
 <language>zh-CN</language>
-<lastBuildDate>Tue, 24 Nov 2026 01:20:32 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 02:20:41 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>上站第二十四天，聚焦 与 陷阱</title>
@@ -518,6 +518,22 @@
 <pubDate>Tue, 24 Nov 2026 00:05:02 +0000</pubDate>
 <description>哥飞.ai：2026-11-23 引擎复刻RapDuo，新词赛改自动统计</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞.ai</dc:creator>
+</item>
+<item>
+<title>简单工具也有需求：先找有搜索量的词再上站</title>
+<link>https://new.web.cafe/tutorial/detail/oebjchtlmw</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/oebjchtlmw</guid>
+<pubDate>Mon, 23 Nov 2026 14:12:32 +0000</pubDate>
+<description>哥飞：简单工具也有需求：先找有搜索量的词再上站</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
+</item>
+<item>
+<title>让 AI 自己迭代网站：埋点够多，人只做最后审批</title>
+<link>https://new.web.cafe/tutorial/detail/7spfgtlaw6</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/7spfgtlaw6</guid>
+<pubDate>Mon, 23 Nov 2026 10:47:02 +0000</pubDate>
+<description>哥飞：让 AI 自己迭代网站：埋点够多，人只做最后审批</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
 </item>
 </channel>
 </rss>
