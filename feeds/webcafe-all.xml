@@ -5,7 +5,7 @@
 <link>https://hello532.github.io/seo-rss/feeds/webcafe-all.xml</link>
 <description>哥飞社群最新教程（教程流）</description>
 <language>zh-CN</language>
-<lastBuildDate>Fri, 27 Nov 2026 03:32:28 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 04:32:37 +0000</lastBuildDate>
 <atom:link href="https://hello532.github.io/seo-rss/feeds/webcafe-all.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>上站第二十四天，聚焦 与 陷阱</title>
@@ -574,6 +574,14 @@
 <pubDate>Thu, 26 Nov 2026 12:27:51 +0000</pubDate>
 <description>哥飞：AI无人值守运营网站：每天自动上一个场景工具页</description>
 <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">哥飞</dc:creator>
+</item>
+<item>
+<title>上站第四十六天，没跑路，网站总算上线了</title>
+<link>https://new.web.cafe/tutorial/detail/u1xed2bb0u</link>
+<guid isPermaLink="true">https://new.web.cafe/tutorial/detail/u1xed2bb0u</guid>
+<pubDate>Fri, 27 Nov 2026 03:41:49 +0000</pubDate>
+<description>程序员卡诺：上站第四十六天，没跑路，网站总算上线了</description>
+<dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">程序员卡诺</dc:creator>
 </item>
 </channel>
 </rss>
